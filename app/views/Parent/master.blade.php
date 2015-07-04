@@ -7,7 +7,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <head>
         <base href="{{ URL::to('/') }}/" />
         <meta charset="UTF-8">
-        <title>Nearmiss</title>
+        <title>Amanda</title>
         <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
         <!-- Bootstrap 3.3.4 -->
         <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
@@ -60,9 +60,9 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 <!-- Logo -->
                 <a href="index2.html" class="logo">
                     <!-- mini logo for sidebar mini 50x50 pixels -->
-                    <span class="logo-mini"><b>N</b>RM</span>
+                    <span class="logo-mini"><b>A</b>MD</span>
                     <!-- logo for regular state and mobile devices -->
-                    <span class="logo-lg"><b>Nearmiss</b></span>
+                    <span class="logo-lg"><b>Amanda</b></span>
                 </a>
 
                 <!-- Header Navbar -->
@@ -251,7 +251,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                     
                 </div>
                 <!-- Default to the left -->
-                <strong>Copyright &copy; 2015 <a href="#">Nearmiss</a>.</strong> All rights reserved.
+                <strong>Copyright &copy; 2015 <a href="#">Amanda</a>.</strong> All rights reserved.
             </footer>
 
             <!-- Control Sidebar -->      

@@ -55,7 +55,7 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'nearmiss_db',
+			'database'  => 'amanda_db',
 			'username'  => 'root',
 			'password'  => 'root',
 			'charset'   => 'utf8',
